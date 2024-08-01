@@ -1,7 +1,6 @@
 import { parseArgs } from 'node:util';
 
 (async () => {
-  // Parse command-line arguments
   const options = {
     url: { type: 'string', default: 'http://ergast.com/api/f1/drivers.json' },
   };
