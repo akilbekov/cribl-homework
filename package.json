@@ -1,0 +1,14 @@
+{
+  "name": "cribl_fetch",
+  "module": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "engines": {
+    "node": "^20.x"
+  }
+}
